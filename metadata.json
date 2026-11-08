@@ -1,0 +1,8 @@
+{
+  "name": "Remix Mutiganda Yvan VPN",
+  "description": "A professional, secure Android VPN tunnel offering customizable connection modes, advanced configuration management, and a modern user interface.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

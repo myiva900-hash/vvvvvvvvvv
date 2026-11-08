@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "Mutiganda Yvan VPN",
+  "short_name": "MYV VPN",
+  "description": "High-performance Android VPN tunneling application with custom payload, SNI, HTTP proxy, and DNSTT support.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0f172a",
+  "theme_color": "#f97316",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
